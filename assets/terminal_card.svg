@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="360" fill="none">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="50%" stop-color="#0d1322"/>
+      <stop offset="100%" stop-color="#070a10"/>
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="50%" stop-color="#4facfe"/>
+      <stop offset="100%" stop-color="#00c7b7"/>
+    </linearGradient>
+
+    <!-- Header Gradient -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#141c2e"/>
+      <stop offset="100%" stop-color="#0f1624"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes pulseGlow {
+      0% { filter: drop-shadow(0 0 4px rgba(0, 242, 254, 0.4)); }
+      50% { filter: drop-shadow(0 0 12px rgba(0, 242, 254, 0.75)); }
+      100% { filter: drop-shadow(0 0 4px rgba(0, 242, 254, 0.4)); }
+    }
+    @keyframes typeIn {
+      from { stroke-dashoffset: 600; }
+      to { stroke-dashoffset: 0; }
+    }
+    .terminal-window {
+      animation: pulseGlow 4s infinite ease-in-out;
+    }
+    .cursor {
+      animation: blink 1s infinite steps(1);
+    }
+    .prompt { fill: #00f2fe; font-weight: 700; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 13.5px; }
+    .command { fill: #ffffff; font-weight: 600; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 13.5px; }
+    .key { fill: #79c0ff; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 13px; font-weight: 600; }
+    .val { fill: #d1d7e0; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 13px; }
+    .highlight { fill: #56d364; font-weight: 700; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 13px; }
+    .accent { fill: #ff7b72; font-weight: 700; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 13px; }
+    .cyan { fill: #38d39f; font-weight: 700; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', monospace; font-size: 13px; }
+    .title-text { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12.5px; font-weight: 500; }
+  </style>
+
+  <!-- Outer Card with Glowing Border -->
+  <rect x="5" y="5" width="840" height="350" rx="12" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.8" class="terminal-window"/>
+
+  <!-- Terminal Top Bar -->
+  <path d="M 5 17 Q 5 5 17 5 L 833 5 Q 845 5 845 17 L 845 38 L 5 38 Z" fill="url(#headerGrad)"/>
+  <line x1="5" y1="38" x2="845" y2="38" stroke="#1f293d" stroke-width="1"/>
+
+  <!-- macOS Window Controls -->
+  <circle cx="26" cy="21.5" r="5.5" fill="#ff5f56"/>
+  <circle cx="44" cy="21.5" r="5.5" fill="#ffbd2e"/>
+  <circle cx="62" cy="21.5" r="5.5" fill="#27c93f"/>
+
+  <!-- Terminal Title -->
+  <text x="425" y="25" text-anchor="middle" class="title-text">faisal@terminal-bench-l4: ~ (zsh — 80x24)</text>
+
+  <!-- Terminal Content Lines -->
+  <!-- Line 1: Command Prompt -->
+  <text x="25" y="70" class="prompt">faisal@turing-eval-node:~$</text>
+  <text x="260" y="70" class="command">terminal-bench --inspect-engineer --target faisal37990</text>
+
+  <!-- Line 2: Divider -->
+  <text x="25" y="95" fill="#30363d" font-family="monospace" font-size="12">----------------------------------------------------------------------------------------</text>
+
+  <!-- Line 3: System / Role -->
+  <text x="25" y="122" class="key">CORE PROFILE</text>
+  <text x="175" y="122" class="val">:: Mohammed Al Faisal Sharif (@faisal37990)</text>
+
+  <!-- Line 4: Specialization -->
+  <text x="25" y="148" class="key">SPECIALIZATION</text>
+  <text x="175" y="148" class="highlight">:: TerminalBench Level 3 &amp; 4 Engineering Contributor</text>
+
+  <!-- Line 5: Domains -->
+  <text x="25" y="174" class="key">AI ALIGNMENT</text>
+  <text x="175" y="174" class="val">:: Frontier LLM SFT • Multi-Turn Rubric Engineering • Golden Solutions</text>
+
+  <!-- Line 6: Cloud Platform -->
+  <text x="25" y="200" class="key">CLOUD DATA DWH</text>
+  <text x="175" y="200" class="val">:: GCP BigQuery • Google Workflows • Data Nexus (Piper) • Looker / PLX</text>
+
+  <!-- Line 7: Infrastructure -->
+  <text x="25" y="226" class="key">CONTAINERS &amp; K8S</text>
+  <text x="175" y="226" class="val">:: CNCF Harbor Registry • Docker Sandboxes • Kubernetes Jobs • POSIX Bash</text>
+
+  <!-- Line 8: Metrics -->
+  <text x="25" y="252" class="key">PROVEN IMPACT</text>
+  <text x="175" y="252" class="cyan">:: 100% Red-Team Catch Rate</text>
+  <text x="420" y="252" class="val">|</text>
+  <text x="435" y="252" class="highlight">35% Latency Reduction (BigQuery)</text>
+  <text x="730" y="252" class="val">|</text>
+  <text x="745" y="252" class="accent">90K+ MDM</text>
+
+  <!-- Line 9: Divider -->
+  <text x="25" y="278" fill="#30363d" font-family="monospace" font-size="12">----------------------------------------------------------------------------------------</text>
+
+  <!-- Line 10: Next Active Prompt with Blinking Cursor -->
+  <text x="25" y="306" class="prompt">faisal@turing-eval-node:~$</text>
+  <text x="260" y="306" class="command">pytest eval_suite/ --level=4 --adversarial</text>
+  <rect x="635" y="293" width="8.5" height="15" fill="#00f2fe" class="cursor"/>
+
+  <!-- Line 11: Output Tag -->
+  <text x="25" y="332" fill="#58a6ff" font-family="monospace" font-size="11.5">[INFO] 20/20 Multi-Turn Benchmark Suites Initialized in Isolated Container Sandbox.</text>
+</svg>
