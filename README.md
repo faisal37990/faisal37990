@@ -53,12 +53,14 @@ Roles: TerminalBench L3/L4 Contributor | AI Evaluation Engineer | Agentic AI | G
 
   <!-- Animated Interactive Terminal Window Card -->
   <p align="center">
-    <img src="./assets/terminal_card.svg" width="100%" alt="Faisal Sharif Animated Terminal Card" />
+    <a href="https://github.com/faisal37990/terminal-bench-evaluator">
+      <img src="https://raw.githubusercontent.com/faisal37990/faisal37990/main/assets/terminal_card.svg" width="100%" alt="Faisal Sharif Animated Terminal Card" />
+    </a>
   </p>
 
   <!-- Animated Impact KPI Cards -->
   <p align="center">
-    <img src="./assets/animated_kpis.svg" width="100%" alt="Faisal Sharif Animated Impact Metrics" />
+    <img src="https://raw.githubusercontent.com/faisal37990/faisal37990/main/assets/animated_kpis.svg" width="100%" alt="Faisal Sharif Animated Impact Metrics" />
   </p>
 
 </div>
