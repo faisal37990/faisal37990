@@ -225,13 +225,20 @@ timeline
 
 ---
 
-### 🌐 Open Source Footprint & Ecosystem Contributions
+### 🌐 Open Source Footprint & Ecosystem Connections
 
-Active contributor, fork maintainer, and collaborator across top-tier open source ecosystems in **Terminal Benchmarking, Harbor Registry, AI Evaluation, and Cloud Data Engineering**:
+Active contributor, fork maintainer, and ecosystem collaborator across 80+ top-tier open source projects spanning **TerminalBench, Harbor Framework, CNCF Harbor Registry, AI Evaluation, and Cloud Data Engineering**:
+
+<p align="center">
+  <a href="https://github.com/harbor-framework/terminal-bench"><img src="https://img.shields.io/badge/TerminalBench-Official%20Benchmark%20(L3%2FL4)-00F2FE?style=for-the-badge&logo=gnubash&logoColor=white" alt="TerminalBench"/></a>
+  <a href="https://github.com/harbor-framework/harbor"><img src="https://img.shields.io/badge/Harbor%20Framework-Agent%20Evaluation%20Core-38D39F?style=for-the-badge&logo=shield&logoColor=white" alt="Harbor Framework"/></a>
+  <a href="https://github.com/goharbor/harbor"><img src="https://img.shields.io/badge/CNCF%20Harbor-Enterprise%20Registry-60B982?style=for-the-badge&logo=harbor&logoColor=white" alt="CNCF Harbor"/></a>
+  <a href="https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact"><img src="https://img.shields.io/badge/Stanford%20IRIS-Terminal--Bench%20Harness-B1040E?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford IRIS"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/princeton-nlp/SWE-bench"><img src="https://img.shields.io/badge/Contributor-SWE--bench%20%2F%20Terminal%20Eval-00C7B7?style=flat-square&logo=github"/></a>
-  <a href="https://github.com/goharbor/harbor"><img src="https://img.shields.io/badge/Contributor-CNCF%20Harbor%20Registry-60B982?style=flat-square&logo=github"/></a>
+  <a href="https://github.com/All-Hands-AI/OpenHands"><img src="https://img.shields.io/badge/Contributor-OpenHands%20Agent-4facfe?style=flat-square&logo=github"/></a>
   <a href="https://github.com/confident-ai/deepeval"><img src="https://img.shields.io/badge/Contributor-DeepEval%20(LLM%20Unit%20Testing)-00B4D8?style=flat-square&logo=github"/></a>
   <a href="https://github.com/explodinggradients/ragas"><img src="https://img.shields.io/badge/Contributor-Ragas%20(Agentic%20Evaluation)-7209B7?style=flat-square&logo=github"/></a>
   <a href="https://github.com/dbt-labs/dbt-bigquery"><img src="https://img.shields.io/badge/Contributor-dbt--bigquery%20(Adapter)-FF694B?style=flat-square&logo=github"/></a>
