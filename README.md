@@ -132,6 +132,16 @@ Roles: TerminalBench L3/L4 Contributor | AI Evaluation Engineer | Agentic AI | G
 
 ---
 
+### ⚡ Live Architecture: Multi-Turn Agentic & TerminalBench L3/L4 Pipeline
+
+<p align="center">
+  <a href="https://github.com/faisal37990/terminal-bench-evaluator">
+    <img src="https://raw.githubusercontent.com/faisal37990/faisal37990/main/assets/agentic_pipeline.svg" width="100%" alt="Faisal Sharif Animated Agentic Architecture Pipeline" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Interactive Tech Stack Arsenal
 
 <div align="center">
@@ -268,6 +278,11 @@ Active contributor, fork maintainer, and ecosystem collaborator across 80+ top-t
   <!-- Activity Graph -->
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisal37990&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Faisal Sharif Activity Graph"/>
+  </p>
+
+  <!-- Animated Contribution Stream Snake -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/faisal37990/faisal37990/main/assets/github-contribution-grid-snake.svg" width="100%" alt="Faisal Sharif Contribution Snake" />
   </p>
 
 </div>
