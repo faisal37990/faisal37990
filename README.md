@@ -14,7 +14,7 @@ Roles: TerminalBench L3/L4 Contributor | AI Evaluation Engineer | Agentic AI | G
 
   <!-- Animated Dynamic Typing Headline -->
   <a href="https://github.com/faisal37990">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=820&height=50&lines=💻+TerminalBench+Level+3+%26+4+Engineering+Contributor;🎯+AI+Evaluation+%26+Frontier+LLM+Alignment+Engineer;🤖+Agentic+AI+%26+Multi-Turn+CLI+Workflow+Architect;☁️+GCP+BigQuery+Principal+Cloud+Data+Architect;🚢+DevOps+%26+Cloud-Native+(Harbor+%7C+Docker+%7C+K8s+%7C+Bash)" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/faisal37990/faisal37990/main/assets/typing_headline.svg" width="820" height="50" alt="Faisal Sharif Dynamic Typing Headline" />
   </a>
 
   <p align="center">
