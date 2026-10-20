@@ -20,7 +20,7 @@ Roles: TerminalBench L3/L4 Contributor | AI Evaluation Engineer | Agentic AI | G
   <p align="center">
     <strong>Bengaluru, India 🇮🇳</strong> &nbsp;|&nbsp;
     <strong>5+ Years Experience</strong> &nbsp;|&nbsp;
-    <strong>Bridging Enterprise Cloud Data with Frontier AI Alignment & Terminal Benchmarking</strong>
+    <strong>Bridging Enterprise Cloud Data with Frontier AI Training & Evaluation & Terminal Benchmarking</strong>
   </p>
 
   <!-- Hero Badges -->
@@ -69,7 +69,7 @@ Roles: TerminalBench L3/L4 Contributor | AI Evaluation Engineer | Agentic AI | G
 
 ### 🌟 Executive Overview
 
-> **High-impact AI Data Engineer, Model Evaluation Specialist & TerminalBench Level 3 & 4 Contributor** with **5+ years of experience** bridging enterprise cloud data platforms (**GCP BigQuery**) with frontier LLM post-training, alignment, and multi-turn terminal execution.
+> **High-impact AI Data Engineer, Model Evaluation Specialist & TerminalBench Level 3 & 4 Contributor** with **5+ years of experience** bridging enterprise cloud data platforms (**GCP BigQuery**) with frontier AI Training & Evaluation, post-training (SFT), and multi-turn terminal execution.
 >
 > Proven track record fine-tuning (**SFT**) foundation models using complex business analysis case studies, multi-dimensional rubric architectures, Excel/PPT golden solutions, and automated JSON schema verifiers. Specialized in **TerminalBench L3/L4 environments**, containerized evaluation sandboxes (**Docker, Harbor, Kubernetes, Linux CLI**), architecting scalable **ELT/ETL pipelines**, and conducting **adversarial red-teaming** to eliminate hallucinations and stress-test autonomous CLI agents.
 
@@ -89,7 +89,7 @@ Roles: TerminalBench L3/L4 Contributor | AI Evaluation Engineer | Agentic AI | G
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 AI Evaluation & Alignment Engineer</h4>
+      <h4>🎯 AI Training & Evaluation Engineer</h4>
       <ul>
         <li><strong>Frontier Model SFT:</strong> Post-training & fine-tuning LLMs with 20+ domain-specific business case studies and multi-dimensional scoring rubrics.</li>
         <li><strong>Automated JSON Schema Verifiers:</strong> Programmatically validating structured JSON model outputs against golden reference standards.</li>
@@ -153,7 +153,7 @@ Roles: TerminalBench L3/L4 Contributor | AI Evaluation Engineer | Agentic AI | G
     </a>
   </p>
 
-#### 💻 TerminalBench, Agentic AI & LLM Alignment
+#### 💻 TerminalBench, Agentic AI & AI Training & Evaluation
 <p>
   <img src="https://img.shields.io/badge/TerminalBench-Level%203%20%26%204%20Contributor-00C7B7?style=for-the-badge&logo=gnubash&logoColor=white" alt="TerminalBench"/>
   <img src="https://img.shields.io/badge/Frontier%20LLMs-Post--Training%20%26%20SFT-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="SFT"/>
@@ -212,7 +212,7 @@ timeline
 ```
 
 #### 🏛️ Proven Quantifiable Results:
-- 💻 **TerminalBench L3/L4 Contributor:** Designed rigorous multi-turn CLI execution tasks and programmatic grading harnesses for frontier agent alignment.
+- 💻 **TerminalBench L3/L4 Contributor:** Designed rigorous multi-turn CLI execution tasks and programmatic grading harnesses for frontier AI Training & Evaluation.
 - 🎯 **100% Precision Adversarial Red-Teaming:** Engineered edge-case evaluation benchmarks that successfully isolated multi-turn reasoning failures in frontier models.
 - ⚡ **35% Latency Reduction:** Refactored BigQuery storage layers (partitioning, clustering, views) for CSCD data marts powering Looker and Google PLX.
 - 🛡️ **30% Reliability Bump:** Introduced automated schema validation & idempotent backfills across Data Nexus, Piper, and BigQuery ELT pipelines.
@@ -227,7 +227,7 @@ timeline
 | Project | Focus Area | Technologies | GitHub Link |
 | :--- | :--- | :--- | :--- |
 | **`terminal-bench-evaluator`** | 💻 **TerminalBench L3/L4 CLI Harness** | Python, Bash, Docker, TerminalBench Rubrics | [![Repo](https://img.shields.io/badge/Explore-Repo-cyan?style=flat-square&logo=github)](https://github.com/faisal37990/terminal-bench-evaluator) |
-| **`agentic-llm-eval-suite`** | 🤖 **AI Evaluation & Multi-Turn Alignment** | Python, JSON Schema, Docker, Claude/GPT APIs | [![Repo](https://img.shields.io/badge/Explore-Repo-blue?style=flat-square&logo=github)](https://github.com/faisal37990/agentic-llm-eval-suite) |
+| **`agentic-llm-eval-suite`** | 🤖 **AI Training & Evaluation Suite** | Python, JSON Schema, Docker, Claude/GPT APIs | [![Repo](https://img.shields.io/badge/Explore-Repo-blue?style=flat-square&logo=github)](https://github.com/faisal37990/agentic-llm-eval-suite) |
 | **`gcp-bigquery-elt-pipeline`** | ☁️ **Cloud Data Engineering & DWH** | BigQuery, SQL, Google Workflows, Docker, Bash | [![Repo](https://img.shields.io/badge/Explore-Repo-green?style=flat-square&logo=github)](https://github.com/faisal37990/gcp-bigquery-elt-pipeline) |
 | **`k8s-harbor-ml-containers`** | 🚢 **Harbor Registry & Kubernetes CI/CD** | CNCF Harbor, Kubernetes, Docker, Helm, Shell | [![Repo](https://img.shields.io/badge/Explore-Repo-purple?style=flat-square&logo=github)](https://github.com/faisal37990/k8s-harbor-ml-containers) |
 
